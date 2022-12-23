@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-course-recipe-book-a07a3": {
+      "hosting": {
+        "angular-config": [
+          "ng-course-recipe-book-a07a3"
+        ]
+      }
+    }
+  }
+}
